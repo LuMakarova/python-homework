@@ -1,2 +1,2 @@
-# python-homework-module-2
-Домашнє завдання до заняття 2 — облік і аналіз особистих витрат на Python.
+# python-homework
+
